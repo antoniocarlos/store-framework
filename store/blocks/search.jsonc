@@ -16,9 +16,11 @@
     "children": [
       "breadcrumb.search",
       "search-title.v2",
-      "flex-layout.row#top",
+      "total-products.v2",
+      "order-by.v2",
       "search-fetch-previous",
-      "flex-layout.row#results",
+      "search-content",
+      "filter-navigator.v3",
       "search-fetch-more"
     ]
   }
