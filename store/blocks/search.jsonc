@@ -22,6 +22,14 @@
       "search-fetch-more"
     ]
   },
+
+  "flex-layout.row#top": {
+    "child": [
+      "total-products.v2",
+      "order-by.v2"
+    ]
+  },
+
   "flex-layout.row#results": {
     "children": [
       "flex-layout.col#filter",
