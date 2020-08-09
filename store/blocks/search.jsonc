@@ -24,7 +24,7 @@
   },
 
   "flex-layout.row#top": {
-    "child": [
+    "children": [
       "total-products.v2",
       "order-by.v2"
     ]
