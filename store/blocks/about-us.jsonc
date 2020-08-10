@@ -64,7 +64,7 @@
   "tab-list.item#home2": {
     "props": {
       "tabId": "instagram",
-      "label": "instagram"
+      "label": "Instagram"
     }
   },
   "tab-content.item#home1": {
